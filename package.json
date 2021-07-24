@@ -1,0 +1,16 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "Just type npm start <int>",
+  "main": "fizzbuzzLoop.js",
+  "scripts": {
+    "start": "node fizzbuzzLoop.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Benjamin Diemert",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
